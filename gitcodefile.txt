@@ -1,0 +1,4 @@
+yum install -git -y
+Hi this is simply git install code
+
+
