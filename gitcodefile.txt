@@ -1,4 +1,4 @@
 yum install -git -y
 Hi this is simply git install code
 
-git --version # This code shows the git version which is installed on your mechine
+
